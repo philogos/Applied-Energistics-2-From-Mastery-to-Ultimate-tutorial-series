@@ -21,3 +21,13 @@ The tutorial attempts to automate the many mods possible in minecraft by using t
   * [3.4 传送机](../AE2-Wiki/3-shi-li/3.4-chuan-song-ji.md)
 * [4 参考文献](../AE2-Wiki/4-can-kao-wen-xian.md)
 * [5 致谢](../AE2-Wiki/5-zhi-xie.md)
+
+
+# AE2 Basic Wiki Content
+*  [AE入门](../AE2-Wiki/README.md)
+  * [AE网络的搭建](../AE2-Wiki/ae-ru-men/ae-wang-luo-de-da-jian/README.md)
+    * [频道](../AE2-Wiki/ae-ru-men/ae-wang-luo-de-da-jian/pin-dao.md)
+    * [ME控制器](../AE2-Wiki/ae-ru-men/ae-wang-luo-de-da-jian/me-kong-zhi-qi.md)
+    * [存储](../AE2-Wiki/ae-ru-men/ae-wang-luo-de-da-jian/cun-chu.md)
+  * [常用机器的介绍](../AE2-Wiki/ae-ru-men/chang-yong-ji-qi-de-jie-shao.md)
+  * [简单自动化介绍与实例](../AE2-Wiki/ae-ru-men/jian-dan-zi-dong-hua-jie-shao-yu-shi-li.md)
