@@ -7,7 +7,7 @@ The tutorial attempts to automate the many mods possible in minecraft by using t
 ![AE god](https://github.com/philogos/Applied-Energistics-2-From-Mastery-to-Ultimate-tutorial-series/assets/113762899/478cdd5a-6b31-4129-9462-c66843be1247)
 
 # AE2 Wiki Content
-* [前言](./AE2-Wiki/README.md)
+* [前言](../AE2-Wiki/README.md)
 * [1 绪论](./AE2-Wiki/1-xu-lun.md)
 * [2 相关的概念与实现](/AE2-Wiki/2-xiang-guan-de-gai-nian-yu-shi-xian/README.md)
   * [2.1 物品/数据传输](2-xiang-guan-de-gai-nian-yu-shi-xian/2.1-wu-pin-shu-ju-chuan-shu.md)
