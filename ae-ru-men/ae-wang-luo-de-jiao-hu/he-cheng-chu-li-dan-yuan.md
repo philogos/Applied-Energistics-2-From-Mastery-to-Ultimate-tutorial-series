@@ -1,0 +1,15 @@
+---
+description: (Crafting Processing Unit)
+---
+
+# 合成处理单元
+
+在刚刚，我们制作了三个样板，此时我们可以看到AE网络中有了相应物品的合成，但是此时我们并不能进行合成，因为我们还需要另外一个设备——合成处理单元(CPU)。![](<../../.gitbook/assets/image (1).png>)
+
+是由<mark style="color:red;">合成存储器</mark>、合成监视器、合成单元以及并行处理器构成的多方块结构，接入ME网络后作为自动合成系统的逻辑中枢，整个多方块结构占用1频道，1个网络中可有多个CPU。
+
+CPU的组成至少包含1个<mark style="color:red;">合成存储器</mark>（其他3种方块并不是必须的），必须是由前文所述的4种方块构成的长方体，最大17\*17\*17。
+
+其中，合成存储器决定了CPU的容量大小，即可处理的自动化合成大小。并行处理器决定了CPU的物品发配能力。剩下两种仅仅可以做占位符，没有任何实际作用。
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>这是一个2x2x2大小的合成处理单元</p></figcaption></figure>

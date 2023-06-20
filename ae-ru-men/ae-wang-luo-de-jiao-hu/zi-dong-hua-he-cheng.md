@@ -1,3 +1,9 @@
 # 自动化合成
 
-在刚刚，我们制作了三个样板，此时我们可以看到AE网络中有了相应物品的合成，但是此时我们并不能进行合成，因为我们还需要另外一个设备——处理器。![](../../.gitbook/assets/image.png)
+使用鼠标中键点击你想要合成的物品。就会出现这样的提示框。
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>最简单的合成任务</p></figcaption></figure>
+
+点击开始，ae就会自动用30个原木合成102个梯子。
