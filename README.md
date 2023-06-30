@@ -1,7 +1,3 @@
----
-description: Basic Wiki是Wiki的前置基础知识
----
+# AE入门
 
-# 前言
-
-享受自动化的无尽魅力
+这一章介绍新手级别的ae
